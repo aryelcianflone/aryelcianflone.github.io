@@ -1,0 +1,32 @@
+body {
+	background-color: #211e1e;
+}
+
+.main {
+	  max-width: 720px;
+    height: 300px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 10px 20px;
+}
+
+.logo {
+	height: 150px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text {
+	color: #d8caca;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	line-height: 34px;
+/*	margin-top: 0;
+  margin-left: 20%;
+  margin-right: 20%;*/
+}
