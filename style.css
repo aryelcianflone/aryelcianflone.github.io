@@ -2,6 +2,14 @@ body {
 	background-color: #211e1e;
 }
 
+a.link {
+	color: green;
+}
+
+a.link:hover {
+	color: #d8caca;
+}
+
 .main {
 	  max-width: 720px;
     height: 300px;

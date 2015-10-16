@@ -2,6 +2,14 @@ body {
 	background-color: #211e1e;
 }
 
+a.link {
+	color: #d8caca;
+}
+
+a.link:hover {
+	color: #9ce;
+}
+
 .main {
 	  max-width: 720px;
     height: 300px;
@@ -26,9 +34,6 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 22px;
 	line-height: 34px;
-/*	margin-top: 0;
-  margin-left: 20%;
-  margin-right: 20%;*/
 }
 
 .nav {
@@ -73,8 +78,3 @@ body {
 .nav a.icon-facebook:hover {
 	color: #CDE855;
 }
-
-.md-button.md-raised:not([disabled]) {
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-}
-
